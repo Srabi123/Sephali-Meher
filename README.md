@@ -2,7 +2,7 @@
 
 
 
-from tkiter imort *
+from tkiter import *
 import tkinter as tk
 from tkinter import filedialog ,messagebox
 import os
